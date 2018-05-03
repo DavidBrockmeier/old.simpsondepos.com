@@ -1,0 +1,10 @@
+{
+  "name": "simpsondepos.com",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/DavidBrockmeier/simpsondepos.com",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
